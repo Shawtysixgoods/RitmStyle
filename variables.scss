@@ -1,0 +1,47 @@
+
+/////////////// font-size
+
+// global
+$font-size-page: calc(.6vw + .6vh);
+$font-size-button: calc(.5vw + .5vh);
+
+
+// main
+$font-size-pretitle: calc(.9vw + .9vh);
+$font-size-main-title: calc(2vw + 2vh);
+
+// session
+$font-size-sessions-title: calc(.8vw + .8vh);
+
+// h2
+$font-size-title: calc(1.35vw + 1.35vh);
+
+// revievs
+$font-size-active-reviev-title: calc(.75vw + .75vh); 
+$font-size-active-reviev-desc: calc(.55vw + .55vh);
+$font-size-passive-reviev-title: calc(.6vw + .6vh); 
+$font-size-passive-reviev-desc: calc(.4vw + .4vh);
+
+// news 
+$font-size-news-title: calc(.8vw + .8vh);
+
+// readme
+$font-size-readme-title: calc(.7vw + .7vh);
+$font-size-readme-desc: calc(.5vw + .5vh);
+
+// sertificate
+$font-size-serf-title:  calc(.7vw + .7vh);
+
+// map
+$font-size-map-title: calc(.75vw + .75vh);
+$font-size-map-text: calc(.65vw + .65vh);
+
+///////////////// colors
+
+$color-text: white;
+$color-main-background: #162831;
+$color-other-background: #018abe;
+$color-img-backgrouns: #00455f;
+
+
+
